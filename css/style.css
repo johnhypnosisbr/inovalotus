@@ -624,8 +624,8 @@
   height: 40px;
 }
 
-.text-align{
-    text-align: center;
+video{
+  object-fit: cover;
 }
 
 .vid {
