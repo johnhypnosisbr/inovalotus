@@ -633,3 +633,7 @@ video{
   display: block;
   margin: 0 auto;
 }
+ .sv-img{
+  height: 15.625rem;
+  width: 100rem;
+ }
