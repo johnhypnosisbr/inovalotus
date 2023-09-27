@@ -634,6 +634,6 @@ video{
   margin: 0 auto;
 }
  .sv-img{
-  height: 15.625rem;
+  min-height: 13.625rem;
   width: 100rem;
  }
